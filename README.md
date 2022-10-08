@@ -1,5 +1,5 @@
 # Olá, Mundo!!!
- Primeiro projeto GIT/GITHUB do curso DIO 
+ Primeiro projeto Git/Github do curso DIO 
 
  Repositório criado com github desktop ubuntu
  
